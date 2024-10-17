@@ -13,3 +13,6 @@ of checking if the user is valid user and which is not. This is the part where w
 as we use few function together to get the result.
 ***
 * *Demo* object is to create testing on project to check that what we did is correct.
+***
+
+### This code was created by Adar Azulay and Tal Damari
